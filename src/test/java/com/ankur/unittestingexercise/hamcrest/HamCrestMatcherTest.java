@@ -1,4 +1,4 @@
-package com.ankur.unittestingexercise.hamcrestMatchers;
+package com.ankur.unittestingexercise.hamcrest;
 
 
 import org.junit.jupiter.api.Test;
